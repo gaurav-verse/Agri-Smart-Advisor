@@ -1,4 +1,4 @@
-import { Sprout, Cloud, TrendingUp, Search } from "lucide-react";
+import { Sprout, Cloud, TrendingUp } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import SoilInputForm from "@/components/SoilInputForm";
 
